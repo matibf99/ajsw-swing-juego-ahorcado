@@ -6,7 +6,7 @@ Este es un juego del ahorcado desarrollado en Java utilizando la biblioteca Swin
 
 1. Descargar el código fuente del proyecto.
 2. Abrir el proyecto en algún entorno de desarrollo Java.
-3. Editar el archivo "words.txt" con las palabras que pueda elegir el programa. El archivo debe contener una palabra por línea y debe ubicarse dentro de la carpeta "src/main/resources".
+3. Editar el archivo "words.txt" con las palabras que puede elegir el programa. El archivo debe contener una palabra por línea y debe ubicarse dentro de la carpeta "src/main/resources".
 4. Compilar y ejecutar la clase "Main.java".
 
 ## Descripción de la interfaz gráfica
@@ -20,4 +20,4 @@ La interfaz gráfica del juego consta de los siguientes elementos:
 
 ## Personalizar la lista de palabras
 
-Si deseas personalizar la lita de palabras del juego, es necesario modificar el archivo "words.txt". El archivo debe contener una palabra por línea y debe ubicarse dentro de la carpeta "src/main/resources".
+Si deseas personalizar la lita de palabras del juego es necesario modificar el archivo "words.txt". El archivo debe contener una palabra por línea y debe ubicarse dentro de la carpeta "src/main/resources".
